@@ -10,7 +10,7 @@ This Magisk module allows you to apply the Vazirmatn-Regular font to your Androi
 
 ### Installation Steps
 1. Open Magisk on your rooted device.
-2. Tap on the Modules icon in the buttom-right corner.
+2. Tap on the Modules icon in the bottom-right corner.
 3. Click on the "Install from storage" button to install module.
 4. Choose the `VazirmatnRegular.zip` file and confirm to flash/install it.
 5. After installation, reboot your device to apply the changes.
