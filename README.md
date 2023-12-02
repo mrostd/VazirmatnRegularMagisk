@@ -24,7 +24,7 @@ That's it! Your device's system font should now be changed to Vazirmatn-Regular.
 
 ## Credits
 
-This Magisk module was created by [Mimo]. report issues on the [GitHub repository](https://github.com/your-username/VazirmatnMagiskModule).
+This Magisk module was created by [Mimo]. report issues on the [GitHub repository](https://github.com/mrostd/VazirmatnRegularMagisk/issues).
 
 ---
 
