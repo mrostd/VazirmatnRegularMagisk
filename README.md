@@ -8,7 +8,8 @@ This Magisk module allows you to apply the Vazirmatn-Regular font to your Androi
 1. Ensure your device is rooted with Magisk installed.
 2. Download the [`VazirmatnRegular.zip`](https://github.com/mrostd/VazirmatnRegularMagisk/releases) file.
 
-### Font Display in Firefox on crDroid ROM
+## Known Issues
+### Font Display in Firefox on crDroid ROM 🦊
 There have been reports of font display issues in the Firefox browser on devices running the crDroid custom ROM. This issue is currently under investigation. If you encounter problems with font rendering in Firefox, consider using an alternative browser.
 
 ### Installation Steps
