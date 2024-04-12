@@ -1,12 +1,13 @@
 # Vazirmatn-regular Magisk Module
 
-This Magisk module allows you to apply the Vazirmatn-Regular font to your Android device's system. Magisk is a powerful tool that allows for systemless modification of your Android device.
-
+This Magisk module allows you to apply the Vazirmatn-Regular font to your Android device's system. 
+This module is made only for Android **AOSP** and custom ROMs based on it.
 ## How to Use It
 
 ### Prerequisites
 1. Ensure your device is rooted with Magisk installed.
-2. Download the [`Vazirmatn-Regular.zip`](https://github.com/mrostd/VazirmatnRegularMagisk/releases) file.
+2. An AOSP based rom.
+3. Download the [`Vazirmatn-Regular.zip`](https://github.com/mrostd/VazirmatnRegularMagisk/releases) file.
 
 ### Installation Steps
 1. Open Magisk on your rooted device.
@@ -22,9 +23,7 @@ That's it! Your device's system font should now be changed to Vazirmatn-Regular.
 - **Root Access:** Your device must be rooted with Magisk for this module to work.
 - **Backup:** It's always a good practice to create a backup before installing or modifying system components.
 
-## Credits
-
-This Magisk module was created by [Mimo]. report issues on the [GitHub repository](https://github.com/mrostd/VazirmatnRegularMagisk/issues).
+Report issues on the [GitHub repository](https://github.com/mrostd/VazirmatnRegularMagisk/issues).
 
 ---
 
