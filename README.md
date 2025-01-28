@@ -1,6 +1,7 @@
 # Vazirmatn-regular Magisk Module
 
-This Magisk module allows you to apply the Vazirmatn-Regular font to your Android device's system. 
+This Magisk module allows you to apply the Vazirmatn-Regular font to your Android device's system.
+**⚠️ Compatibility:** For Android 15 and above, please use version 2.0.0!
 This module is made only for Android **AOSP** and custom ROMs based on it.
 ## How to Use It
 
